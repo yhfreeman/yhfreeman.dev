@@ -1,11 +1,11 @@
 ---
-title: About Me
-description: 'About Me'
+title: About
+description: 'About'
 date: 2023-05-23
 author: Yuhan Freeman
 ---
 
-Hello / Boujour / Ni Hao 👋  I am a developer who enjoys working with technologies, learning in general and making things happen in a collaborative and transparent environment. I recently decided to move my process of collecting notes and writing down thoughts to a technical blog space. Hope you like what you see here!
+Hello / Boujour / Ni Hao 👋 👩‍💻 I am a developer who enjoys working with technologies, learning in general and making things happen in a collaborative and transparent environment. I recently decided to move my process of collecting notes and writing down thoughts to a technical blog space. Hope you like what you see here!
 
 <br/>
 
